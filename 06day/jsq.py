@@ -1,11 +1,11 @@
 def calu(a,b,x):
-    if x = "+":
+    if x == "+":
         return a + b
-    elif x = "-":
+    elif x == "-":
         return a - b
-    elif x = "*":
+    elif x == "*":
         return a * b
-    else x = "/":
+    elif x == "/":
         return a / b
         
 
